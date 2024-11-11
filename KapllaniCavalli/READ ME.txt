@@ -1,0 +1,1 @@
+IL file riguardo all corsa dei cavalli si trova nella cartella src
